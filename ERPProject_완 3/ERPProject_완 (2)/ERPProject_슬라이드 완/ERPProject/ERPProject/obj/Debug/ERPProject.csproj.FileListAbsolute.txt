@@ -1,0 +1,268 @@
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\202-25\Desktop\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\202-25\Desktop\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\202-25\Desktop\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\김연경\source\repos\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\202-25\Desktop\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_fff\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\김연경\source\repos\합치는거 돌리세요\ERPProject_fff (2)\ERPProject_ff\ERPProject_슬라이드 완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.ResolveComReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form3.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.masterForm.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.Setting.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_완 3\ERPProject_완 (2)\ERPProject_슬라이드 완\ERPProject\ERPProject\obj\Debug\ERPProject.pdb

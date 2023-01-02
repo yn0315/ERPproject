@@ -1,0 +1,113 @@
+namespace 디자인
+
+
+class1 Form1(아이디 비번)
+	패널 아이디
+	패널 비번
+	패널 로그인
+	
+class2 Form2(총 관리자 창)
+	패널 각자 인사, 재무, 재고, 서비스 창	
+class3 Form3(직원 메인창)
+	카테고리
+	내용
+ 	등등
+
+namespace 인사(PersonnelMatter)
+
+class1 사원(Employee)
+	+register()사원 등록(개인정보)/ 탈퇴(set  -private) <-------------- 재무,class1 개인(퇴직급여)
+	+diligenceAndLaziness()근태(set - private) <-------------- 인사, class1 사원(월급(세금))
+	+personnelAppointments()인사 발령<--------------사원,class2 평가(포상/징계관리), 평가관리(인사고과)
+	+manageDayLaborer()일용직관리<--------------재무, class1 개인(일용직급여관리)	
+	-monthlyPay()월급(세금)(set - private) 
+			
+class2 평가(Evaluation)
+	+rewardAndDisciplinary()포상/징계관리(set - private) -------------->인사, class1 사원(인사발령)
+	+evaluationManegement()평가관리(인사고과)(set - private)-------------->인사, class1 사원(인사발령)
+	
+class3 관련 서류(Document)
+	+paystub()급여명세서(set X) --------------> 인사, class1 사원 (사원등록(개인정보), 월급(세금)), 재무, class1 개인(직원경조사)
+
+namespace 재무(finance)
+
+clasa1 개인(Individual)
+	+retirementBenefit()퇴직급여 (계산식)
+	+dailyWageManagement()일용직 급여관리 --------------> 인사, class1 사원(일용직관리)
+	-employeeFamilyEvent()직원 경조사 <-------------- 인사, class3 관련서류(급여명세서),재무,class2수입/지출(출장비, 명절선물금액관리)
+
+class2 수입/지출(IncomeExpense)
+
+	+class2-1 수입/지출(IncomeAndExpense)
+		+incomingsAndOutgoings()수입 / 지출(출장비,명절선물금액관리) --------------> 서비스, class4 영업(미수금관리), 재고, class2 구매(발주등록) , class3 수리(수리입고등록),       직원 경조사,인사(월급)
+		+aFundPlan()자금계획표-------------->서비스, class3 이벤트(계획),재무,class2수입/지출(출장비, 명절선물금액관리)
+
+	-class2-2 통계(Statistics)
+		+EmployeesFullAnnualSalary()사원 전체 연봉(세전으로 월급 * 12 계산?)<-------------- 인사, class1 사원(월급(세금)) 
+		-monthlySalesPurchases()월별 매출/매입 집계표 --------------> 재고, class2 구매(발주등록)
+		-monthlyProfitAndLossAnalysis()월별 손익분석--------------> 재무, class2 수입/지출 - class2 - 1 수입/지출(수입/지출), 재무, class2 수입/지출 - class 2-2 통계(월별 매출/매입 집계표) 
+		
+	
+
+class3 보고서/ 기타(Report)
+	-listedReports()목록별(분기별/월/년 재무관련) 보고서
+
+
+
+namespace 재고(stock)
+class1 재고(Stock)
+	+joinCurrentSituation()가맹점 별 재고 현황 --------------> 서비스, class1서비스(관련 자재 입출고/비품관리(기사별 자재 입출고/ 사용관리))
+	+warehouseCurrentSituation()창고별 재고 현황 --------------> 서비스, class1서비스(관련 자재 입출고/비품관리(기사별 자재 입출고/ 사용관리))
+	-monthInAndOutgoings()월별수불현황
+	
+	
+class2 구매(Purchase)
+	+orderAdd()발주 등록<--------------재무, class2 수입/지출- class2 - 1 수입/지출(수입/지출)
+	-orderCurrentSituation()발주현황
+	-wareghousingAdd()입고 등록
+	+warehousingCurrentSituation()입고 현황 --------------> 서비스, class1서비스(관련 자재 입출고/비품관리(기사별 자재 입출고/ 사용관리))
+	+provision()지급관리/조회
+	
+class3 수리(Repair)
+	+repairInAdd()수리입고등록<--------------서비스,class1서비스(수리신청(제품별 증상/ 원인/ 조치 분석))
+	+repairInCurrentSituation()수리 입고 현황<-------------- 서비스,class1서비스(관련 자재 입출고/비품관리(기사별 자재 입출고/ 사용관리))
+	-repairOutAdd()수리출고 등록
+	+repairOutCurrentSituation()수리 출고 현황<-------------- 서비스,class1서비스(관련 자재 입출고/비품관리(기사별 자재 입출고/ 사용관리))
+	-repairInAndOutgoings()수리 수불현황
+
+class4 통계(Stats)
+	-monthPurchaseAnalysis()월별 구매 분석--------------> 재고,class2 구매(발주등록)
+	-yearsPurchaseAnalysis()년간 구매분석--------------> 재고,class2 구매(발주등록)
+	-byPeriodDeadline()일,월,연별, 기간별 마감
+
+
+namespace 서비스(service)
+class1 서비스(Service)
+	-serviceAdd()서비스 접수
+	+repairApply()수리 신청(제품별 증상/ 원인/ 조치 분석) <--------------재고,class3 수리(수리입고등록)
+	+meterialsInOut()관련 자재 입출고/ 비품관리(기사별 자재 입출고/ 사용관리) -------------->재고, class2 구매(입고현황),class3 수리(수리입고현황, 수리출고현황)
+
+class 2 회원(Member)
+	-memberId()회원 아이디
+	-blackList()블랙 리스트
+	-idRentalCount()아이디 별 대여 횟수
+	-idRentalPeriod()아이디 별 품목 대여 기간
+	+overdue()미납/ 연체<-------------- 재무, class2 수입/지출 - class2 - 1 수입/지출(수입/지출)
+	-dropOut()탈퇴 날짜(1년 후 완전삭제)
+
+class3 이벤트(Event)
+	+plan()계획<--------------재무, class2 수입/지출 - class2 - 1 수입/지출(자금계획표)
+	-report()보고서
+
+class4 영업(Business)
+	+performanceManagement거래 성과 관리<--------------인사, class2 평가(평가관리)
+	+outstandingAmountManagement()미수금 관리<--------------재무, class2 수입/지출 - class2 - 1 수입/지출(수입/지출)
+	-asManagement()A/S 관리<-------------- 서비스,class1 서비스(수리신청)
+
+
+namespace 커뮤니케이션(comunication)
+class 1 일정(Schedule)
+	+calender()캘린더
+class2 알람(Alam)
+	+messege()쪽지
+	+authorizationAlam()결재 알람
